@@ -15,7 +15,7 @@ And the most advanced features which feature the
 
 Mapty is a web application that allows users to track their workouts on an interactive map. It is built using the Leaflet library for map functionality and incorporates object-oriented programming (OOP) principles. The application provides a user-friendly interface and features visually appealing CSS styling.
 
-!C:/Users/shash/OneDrive/Pictures/Screenshots/Screenshot (82)
+![Mapty Screenshot](C:/Users/shash/OneDrive/Pictures/Screenshots/Screenshot(82).png)
 
 ## Features
 
