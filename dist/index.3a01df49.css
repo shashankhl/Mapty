@@ -284,12 +284,12 @@ a:link, a:visited {
 }
 
 .twitter-link:link, .twitter-link:visited {
-  color: var(--color-light--1);
+  color: #3a15b4;
   transition: all .2s;
 }
 
 .twitter-link:hover, .twitter-link:active {
-  color: var(--color-light--2);
+  color: #0ea083;
 }
 
 #map {

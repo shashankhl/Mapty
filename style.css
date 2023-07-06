@@ -286,13 +286,13 @@ a:visited {
 
 .twitter-link:link,
 .twitter-link:visited {
-  color: var(--color-light--1);
+  color: rgb(58, 21, 180);
   transition: all 0.2s;
 }
 
 .twitter-link:hover,
 .twitter-link:active {
-  color: var(--color-light--2);
+  color: rgb(14, 160, 131);
 }
 
 /* MAP */
